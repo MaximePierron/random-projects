@@ -1,0 +1,1345 @@
+{
+  "apps": {
+    "csp_signal_database_service": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 4570
+    },
+    "someip_core_internal": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 4582
+    },
+    "someip_secure": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 4652
+    },
+    "someip_exposed": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 4712
+    },
+    "fault_manager": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 4752
+    },
+    "hpa_uds_diagnostic_server": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 4778
+    },
+    "lpa_agent": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 4827
+    },
+    "tester_prioritizer": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 4852
+    },
+    "uds_tester_handler": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 4875
+    },
+    "hpa_activation_manager": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 7678
+    },
+    "secure_storage": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 4981
+    },
+    "security_logger": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 5168
+    },
+    "adaptivefrontlight_server": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 39037
+    },
+    "adaptivefrontlightasil_server": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 38229
+    },
+    "adasactuationarbitrationmanager": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 39100
+    },
+    "adascleaningmanager": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 39154
+    },
+    "adasdomaincontroller_server": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 39204
+    },
+    "adasdriverstate_server": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 39568
+    },
+    "adasinformationmanager": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 39640
+    },
+    "adasmanagersafe_server": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 40995
+    },
+    "adassensormodemanager": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 41866
+    },
+    "alarmservice_server": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 41884
+    },
+    "alcohol-interlock-manager": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 32736
+    },
+    "asil_data_runner": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 41929
+    },
+    "assistance-call-adapter": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 42013
+    },
+    "assistance_call_server": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 49440
+    },
+    "aswm_lin_scheduler": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 15558
+    },
+    "aswm_server": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 15569
+    },
+    "aud_admin": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 49473
+    },
+    "basic_illumination_control_safe_server": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 13675
+    },
+    "basic_illumination_control_server": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 13702
+    },
+    "brake_control_server": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 32776
+    },
+    "carconfig-adapter": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": true,
+      "essential": false,
+      "first spawn timestamp ms": 15611
+    },
+    "carconfig_server": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": true,
+      "essential": false,
+      "first spawn timestamp ms": 5237
+    },
+    "catc": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": true,
+      "essential": false,
+      "first spawn timestamp ms": 29198
+    },
+    "charge_coordinator_runner": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 42098
+    },
+    "cloudfeaturediscovery_server": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 50736
+    },
+    "cloudmapreceiver": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 52277
+    },
+    "comm-sum": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": true,
+      "essential": false,
+      "first spawn timestamp ms": 29538
+    },
+    "conversion_control": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 17308
+    },
+    "cpu_stats_app_server": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 7687
+    },
+    "crashcontrolmaster": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 32810
+    },
+    "data_collection_framework_core": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 52310
+    },
+    "data_forwarder_runner_asilb1": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 10199
+    },
+    "data_forwarder_runner_asilb2": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 10230
+    },
+    "data_forwarder_runner_qm1": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 10245
+    },
+    "data_forwarder_runner_qm2": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 10272
+    },
+    "data_forwarder_runner_qm3": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 10320
+    },
+    "deviceadmin_server": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 7751
+    },
+    "dhu-fault-proxy": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 32946
+    },
+    "dhu-someip-adapter-proxy-server": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 13820
+    },
+    "dhu_admin": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 29662
+    },
+    "diagnostic_comm_buses_monitor": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 35258
+    },
+    "diagnostic_data_provider": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 52700
+    },
+    "diagnostic_kernel": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 33019
+    },
+    "diagnostic_memory_monitor": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 35332
+    },
+    "diagnostic_sensors_monitor": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 35357
+    },
+    "diagnostic_wake_up_agent": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 7963
+    },
+    "diagnostic_watchdog_monitor": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 42178
+    },
+    "direction_indicator_control_server": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 34923
+    },
+    "directionindicationfaultmonitorsafe_server": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 35396
+    },
+    "directionindicatorcontrolsafe_server": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 35428
+    },
+    "dkey_server": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 31998
+    },
+    "driver-coach-adapter": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 42224
+    },
+    "driver_presence_server": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 29734
+    },
+    "driverinformationasiladapter": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 32033
+    },
+    "driverinformationviewlogicrunner": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 35513
+    },
+    "driverinformationviewlogicrunner_hangaround": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 35548
+    },
+    "driverinformationviewlogicrunner_outcast": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 35576
+    },
+    "driverinformationviewlogicrunner_prospect": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 35600
+    },
+    "electric_drive_runner": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 32107
+    },
+    "electrical_faults_coordinator": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 42889
+    },
+    "electrical_levels_coordinator": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 13877
+    },
+    "electrical_limits_coordinator": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 14029
+    },
+    "electronic-toll-collection-manager-china": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 41037
+    },
+    "ergonomicscoordinator": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 15717
+    },
+    "exposed_2400_container": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 8155
+    },
+    "externalloadservice_server": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 14156
+    },
+    "globalsnapshot_server": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 33151
+    },
+    "globalsnapshotresolver_server": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 33183
+    },
+    "googlemapcontributionprovider_app": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 50770
+    },
+    "hands_off_detection_server": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 34949
+    },
+    "headupdisplaysettings": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 52733
+    },
+    "heated-emblem": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 41135
+    },
+    "high_voltage_charging_runner": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 14202
+    },
+    "high_voltage_energy_coordinator": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 33220
+    },
+    "human-vision-manager": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 42932
+    },
+    "hvbmactivation": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 42997
+    },
+    "hvsystemcontrol_server": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 10353
+    },
+    "immobilizer-manager": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 33301
+    },
+    "indicationmanager": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 17336
+    },
+    "infotainment_climate_adapter": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 29786
+    },
+    "installation_master": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 5443
+    },
+    "installation_master_crypto": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 6479
+    },
+    "interior-light-server": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 43019
+    },
+    "intrusion-detection-system": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 43091
+    },
+    "keep-awake": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 49500
+    },
+    "key_provisioning_crypto": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 52775
+    },
+    "lifecycle-modes-manager": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 49554
+    },
+    "lifecycle-modes-manager-safe": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 50832
+    },
+    "lockingservice_server": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 14305
+    },
+    "lockingservicesafe_server": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 14458
+    },
+    "longitudinal_vehicle_control_service": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 32150
+    },
+    "low-voltage-energy-control": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 15862
+    },
+    "low_voltage_energy_coordinator": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 17389
+    },
+    "lpa-dtc-adapter": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 52798
+    },
+    "map_energy_adapter_app": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 43201
+    },
+    "media-switch-adapter": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 43250
+    },
+    "mountedeculist_server": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": true,
+      "essential": false,
+      "first spawn timestamp ms": 8172
+    },
+    "notificationmanager": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 17527
+    },
+    "occupant_forgotten_assessment_server": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 43326
+    },
+    "occupant_presence_provider_server": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 38256
+    },
+    "odometer": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 17552
+    },
+    "ota_manager": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": true,
+      "essential": false,
+      "first spawn timestamp ms": 50870
+    },
+    "overhead-console-defroster": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 30028
+    },
+    "pdbox_power_coordinator": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 8283
+    },
+    "positioning": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 44026
+    },
+    "post_aca": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 45528
+    },
+    "powersteering_server": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 39820
+    },
+    "pre_aca": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 45742
+    },
+    "probesourcemapstransceiver": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 52833
+    },
+    "pvc": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 35668
+    },
+    "radar-server": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 39891
+    },
+    "rear-climate-view-controller": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 52955
+    },
+    "rearvisiondefroster_server": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 15929
+    },
+    "remote_monitor_system_gateway_china": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 51009
+    },
+    "resource_management": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 8366
+    },
+    "roadstate_server": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 38308
+    },
+    "seat_manager_safe": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 30080
+    },
+    "seatbelt-control-server": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 35987
+    },
+    "seatmanager_server": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 15967
+    },
+    "secured_2000_container": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 6652
+    },
+    "secured_2001_container": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 6691
+    },
+    "secured_2002_container": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 52127
+    },
+    "secured_2050_container": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 6712
+    },
+    "secured_2990_container": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 8613
+    },
+    "settings-service": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 30119
+    },
+    "sga_comm_service": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 51041
+    },
+    "shutdown-manager": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 49652
+    },
+    "sidemirrormaneuveringcontrol_server": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 16238
+    },
+    "signaling_gateway": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": true,
+      "essential": false,
+      "first spawn timestamp ms": 49744
+    },
+    "standardprecisionpositioning": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 44074
+    },
+    "start_manager": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 33365
+    },
+    "statistical_data_aggregator": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 41181
+    },
+    "statistical_data_manager_server": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 41296
+    },
+    "surface_temperature_manager_server": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 17588
+    },
+    "suspension-data-forwarder": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": true,
+      "essential": false,
+      "first spawn timestamp ms": 44136
+    },
+    "switch-display-illumination-server": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 10408
+    },
+    "telematics_application_adapter": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 44227
+    },
+    "torquevectoringmodemanager_server": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 33500
+    },
+    "tricorder-data-collector": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 16309
+    },
+    "tyre_and_wheel_monitor": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 38348
+    },
+    "uds_firewall": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 10442
+    },
+    "usage-modes-manager": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 30435
+    },
+    "user-manager": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 44372
+    },
+    "utc-broker": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 8632
+    },
+    "vcc_human_vision_camera_adapter": {
+      "state": "Terminated",
+      "exit code": 9,
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 18877
+    },
+    "vehicle-charging-input-adapter": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 44497
+    },
+    "vehicle-energy-management": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 51099
+    },
+    "vehicle-status-adapter": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 44595
+    },
+    "vehicle_energy_mode_service": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 10464
+    },
+    "vehicle_location_transmitter": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 53015
+    },
+    "vehicle_modes_provider": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 10482
+    },
+    "vehicledataviewadapter": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 30546
+    },
+    "vehiclelanguagecontroller": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 44755
+    },
+    "vehiclemotionstate_server": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 14513
+    },
+    "vehiclesettingsinputadapter": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 17640
+    },
+    "visibilitysensorcleaning_server": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 38463
+    },
+    "wakeup-time-manager": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 44842
+    },
+    "wheelrotationadapter": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 53163
+    },
+    "windowsservice_server": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 51272
+    },
+    "wiperwasher_server": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 38510
+    },
+    "wired-devices-charging": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 49872
+    },
+    "wireless_phone_charger_server": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 49897
+    },
+    "zen_asil_feature_a": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 45990
+    },
+    "zen_asil_sensorfusion_a": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 46284
+    },
+    "zen_nominal_freespace_fusion_a": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 46487
+    },
+    "zen_plan_pni": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 16377
+    },
+    "zen_qm_adaptive_high_beam": {
+      "state": "Terminated",
+      "exit code": 9,
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 18962
+    },
+    "zen_qm_camera_flcw": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 19066
+    },
+    "zen_qm_camera_srcx": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 19287
+    },
+    "zen_qm_ego_vehicle_motion": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 46758
+    },
+    "zen_qm_feature_a": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 46862
+    },
+    "zen_qm_mapengine": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 47320
+    },
+    "zen_qm_onepilot_apis_a": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 47838
+    },
+    "zen_qm_probing": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 47978
+    },
+    "zen_qm_sensorfusion_a": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 48262
+    },
+    "zen_qm_src_vision": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 19557
+    },
+    "zen_qm_ultrasonic_sensing": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 49121
+    },
+    "zen_qm_vision": {
+      "state": "Terminated",
+      "exit code": 9,
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 22154
+    },
+    "zen_qm_vision_factory_calibration": {
+      "state": "Terminated",
+      "exit code": 9,
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 24085
+    }
+  }
+}

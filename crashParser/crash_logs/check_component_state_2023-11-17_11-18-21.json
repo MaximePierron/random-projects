@@ -1,0 +1,18 @@
+{
+  "apps": {
+    "csp_signal_database_service": {
+      "state": "Running",
+      "restart counter": 0,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 4570
+    },
+    "someip_core_internal": {
+      "state": "Running",
+      "restart counter": 1,
+      "restartable": false,
+      "essential": false,
+      "first spawn timestamp ms": 4582
+    }
+  }
+}
