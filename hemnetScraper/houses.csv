@@ -1,0 +1,51 @@
+,link,address,price,type,nbr_of_rooms,boarea,biarea,tomtarea,byggår
+0,https://www.hemnet.se/bostad/radhus-4rum-torslanda-goteborgs-kommun-runslingan-178-19279466,"Runslingan 178, Torslanda, Göteborgs kommun",3925000,Radhus,4,112 m²,N/A,171 m²,1974
+1,https://www.hemnet.se/bostad/villa-4rum-kallered-molndals-kommun-gamla-riksvagen-52-19511695,"Gamla Riksvägen 52, Kållered, Mölndals kommun",3490000,Villa,4,92 m²,N/A,408 m²,1926
+2,https://www.hemnet.se/bostad/radhus-5rum-tolered-goteborgs-kommun-ragakern-30-19351421,"Rågåkern 30, Tolered, Göteborgs kommun",3490000,Radhus,5,122 m²,5 m²,"167,8 m²",1973
+3,https://www.hemnet.se/bostad/villa-6rum-ravlanda-harryda-kommun-bjorkvagen-7-19506775,"Björkvägen 7, Rävlanda, Härryda kommun",3875000,Villa,6,140 m²,40 m²,972 m²,1973
+4,https://www.hemnet.se/bostad/villa-6rum-helgered-goteborgs-kommun-helgeredsvagen-10-19507875,"Helgeredsvägen 10, Helgered, Göteborgs kommun",3995000,Villa,6,160 m²,51 m²,"1 130,6 m²",1978
+5,https://www.hemnet.se/bostad/radhus-5rum-angered-goteborgs-kommun-molnesjogatan-7-19511557,"Mölnesjögatan 7, Angered, Göteborgs kommun",2485000,Radhus,5,114 m²,57 m²,"185,1 m²",1982
+6,https://www.hemnet.se/bostad/villa-4rum-solangen-molndals-kommun-frejagatan-48-19507042,"Frejagatan 48, Solängen, Mölndals kommun",4000000,Villa,4,114 m²,N/A,889 m²,1935
+7,https://www.hemnet.se/bostad/radhus-5rum-tuve-goteborgs-kommun-grinnekullegatan-159-19506798,"Grinnekullegatan 159, Tuve, Göteborgs kommun",3450000,Radhus,5,132 m²,N/A,162 m²,1971
+8,https://www.hemnet.se/bostad/villa-5rum-molndals-kommun-floravagen-1a-19370517,"Floravägen 1A, Mölndals kommun",3650000,Villa,5,117 m²,N/A,218 m²,1963
+9,https://www.hemnet.se/bostad/radhus-5rum-rannebergen-goteborgs-kommun-lilla-idtjarnsgatan-111-19503635,"Lilla Idtjärnsgatan 111, Rannebergen, Göteborgs kommun",2690000,Radhus,5,128 m²,10 m²,200 m²,1983
+10,https://www.hemnet.se/bostad/radhus-4rum-kallered-livered-molndals-kommun-sagasvagen-26-19314155,"Sagåsvägen 26, Kållered | Livered, Mölndals kommun",3795000,Radhus,4,98 m²,N/A,N/A,N/A
+11,https://www.hemnet.se/bostad/radhus-4rum-angas-korsasen-goteborgs-kommun-korsasliden-88-19496735,"Korsåsliden 88, Ängås - Korsåsen, Göteborgs kommun",3975000,Radhus,4,100 m²,23 m²,225 m²,1974
+12,https://www.hemnet.se/bostad/villa-5rum-fjaras-kungsbacka-kommun-fjaras-backsippevag-1-19496216,"Fjärås Backsippeväg 1, Fjärås, Kungsbacka kommun",3490000,Villa,5,127 m²,127 m²,1 038 m²,1964
+13,https://www.hemnet.se/bostad/villa-4rum-torslanda-goteborgs-kommun-hastlyckan-8-18829221,"Hästlyckan 8, Torslanda, Göteborgs kommun",3500000,Villa,4,99 m²,N/A,1 336 m²,1961
+14,https://www.hemnet.se/bostad/radhus-4rum-kallered-molndals-kommun-sagasvagen-37-19487917,"Sagåsvägen 37, Kållered, Mölndals kommun",3995000,Radhus,4,108 m²,N/A,N/A,2018
+15,https://www.hemnet.se/bostad/villa-5rum-onsala-rydet-kungsbacka-kommun-galeasvagen-6-19446476,"Galeasvägen 6, Onsala - Rydet, Kungsbacka kommun",3800000,Villa,5,118 m²,16 m²,918 m²,1975
+16,https://www.hemnet.se/bostad/radhus-4rum-savedalen-partille-kommun-brolyckan-9-19446575,"Brolyckan 9, Sävedalen, Partille kommun",3995000,Parhus,4,112 m²,N/A,N/A,2000
+17,https://www.hemnet.se/bostad/radhus-4rum-hisings-karra-goteborgs-kommun-svarvstensvagen-20-19478155,"Svarvstensvägen 20, Hisings Kärra, Göteborgs kommun",3495000,Kedjehus,4,96 m²,N/A,N/A,2007
+18,https://www.hemnet.se/bostad/radhus-5rum-hisings-karra-goteborgs-kommun-russvagen-24-19478056,"Russvägen 24, Hisings Kärra, Göteborgs kommun",3595000,Kedjehus,5,120 m²,N/A,N/A,1997
+19,https://www.hemnet.se/bostad/villa-5rum-ravlanda-harryda-kommun-rammsjon-307-19356335,"Rammsjön 307, Rävlanda, Härryda kommun",3795000,Villa,5,118 m²,N/A,1 746 m²,1909
+20,https://www.hemnet.se/bostad/radhus-6rum-biskopsgarden-goteborgs-kommun-hojdhopparegangen-3-19017730,"Höjdhopparegången 3, Biskopsgården, Göteborgs kommun",2995000,Radhus,6,117 m²,24 m²,N/A,1995
+21,https://www.hemnet.se/bostad/radhus-4rum-kvillebacken-goteborgs-kommun-gamla-bjorlandavagen-38b-19466860,"Gamla Björlandavägen 38B, Kvillebäcken, Göteborgs kommun",3695000,Radhus,4,107 m²,N/A,"204,2 m²",1960
+22,https://www.hemnet.se/bostad/radhus-4rum-landvetter-harryda-kommun-lunnavagen-11-19465196,"Lunnavägen 11, Landvetter, Härryda kommun",3900000,Radhus,4,105 m²,N/A,159 m²,1967
+23,https://www.hemnet.se/bostad/radhus-5rum-utby-goteborgs-kommun-kolmataregatan-15-19464197,"Kolmätaregatan 15, Utby, Göteborgs kommun",3890000,Radhus,5,123 m²,5 m²,230 m²,1964
+24,https://www.hemnet.se/bostad/radhus-4rum-gardsten-goteborgs-kommun-kardemummaslingan-47-19461365,"Kardemummaslingan 47, Gårdsten, Göteborgs kommun",2650000,Radhus,4,102 m²,N/A,N/A,2021
+25,https://www.hemnet.se/bostad/villa-5rum-onsala-kungsbacka-kommun-krabbeliden-1-19460656,"Krabbeliden 1, Onsala, Kungsbacka kommun",3995000,Villa,5,135 m²,N/A,1 595 m²,1976
+26,https://www.hemnet.se/bostad/villa-4rum-olofstorp-goteborgs-kommun-bergums-prastgardsbacke-12-19457876,"Bergums Prästgårdsbacke 12, Olofstorp, Göteborgs kommun",3295000,Villa,4,108 m²,N/A,N/A,2017
+27,https://www.hemnet.se/bostad/radhus-4rum-lindome-ostra-molndals-kommun-konditorivagen-72-19457416,"Konditorivägen 72, Lindome Östra, Mölndals kommun",3995000,Radhus,4,102 m²,33 m²,177 m²,1977
+28,https://www.hemnet.se/bostad/radhus-4rum-biskopsgarden-goteborgs-kommun-byvadersgatan-47-19456057,"Byvädersgatan 47, Biskopsgården, Göteborgs kommun",3595000,Parhus,4,120 m²,N/A,N/A,2021
+29,https://www.hemnet.se/bostad/villa-6rum-angered-rannebergen-goteborgs-kommun-lilla-idtjarnsgatan-39-19040536,"Lilla Idtjärnsgatan 39, Angered Rannebergen, Göteborgs kommun",3675000,Villa,6,142 m²,29 m²,498 m²,1984
+30,https://www.hemnet.se/bostad/villa-5rum-rannebergen-goteborgs-kommun-fjallbruden-36-19414635,"Fjällbruden 36, Rannebergen, Göteborgs kommun",3900000,Villa,5,140 m²,N/A,348 m²,1980
+31,https://www.hemnet.se/bostad/radhus-6rum-biskopsgarden-goteborgs-kommun-vaderskeppsgatan-11-19368458,"Väderskeppsgatan 11, Biskopsgården, Göteborgs kommun",2650000,Radhus,6,92 m²,N/A,"140,2 m²",1957
+32,https://www.hemnet.se/bostad/radhus-4rum-goteborgs-kommun-banjogatan-15-19373761,"Banjogatan 15, Göteborgs kommun",3995000,Radhus,4,90 m²,17 m²,141 m²,1964
+33,https://www.hemnet.se/bostad/radhus-4rum-backatorp-hisings-backa-goteborgs-kommun-batsman-gras-gata-46-19325539,"Båtsman Grås Gata 46, Backatorp - Hisings Backa, Göteborgs kommun",2795000,Radhus,4,"99,3 m²",N/A,N/A,1988
+34,https://www.hemnet.se/bostad/villa-6rum-vallda-kungsbacka-kommun-brondomevagen-385-19296937,"Bröndomevägen 385, Vallda, Kungsbacka kommun",3650000,Villa,6,135 m²,135 m²,1 209 m²,1971
+35,https://www.hemnet.se/bostad/radhus-5rum-lansmansgarden-goteborgs-kommun-lilla-solstralegatan-5-19293855,"Lilla Solstrålegatan 5, Länsmansgården, Göteborgs kommun",3990000,Radhus,5,112 m²,N/A,194 m²,2016
+36,https://www.hemnet.se/bostad/radhus-5rum-torslanda-goteborgs-kommun-runslingan-151-19258301,"Runslingan 151, Torslanda, Göteborgs kommun",3895000,Radhus,5,122 m²,2 m²,"173,9 m²",1974
+37,https://www.hemnet.se/bostad/villa-4rum-ravlanda-harryda-kommun-annebergsvagen-715-19265815,"Annebergsvägen 715, Rävlanda, Härryda kommun",2495000,Villa,4,91 m²,21 m²,2 722 m²,1972
+38,https://www.hemnet.se/bostad/radhus-5rum-hisings-karra-goteborgs-kommun-boneredsgatan-9-19233715,"Böneredsgatan 9, Hisings Kärra, Göteborgs kommun",3750000,Radhus,5,120 m²,N/A,"218,3 m²",1975
+39,https://www.hemnet.se/bostad/radhus-5rum-torslanda-goteborgs-kommun-runslingan-103-19226556,"Runslingan 103, Torslanda, Göteborgs kommun",3695000,Radhus,5,112 m²,N/A,171 m²,1974
+40,https://www.hemnet.se/bostad/villa-5rum-angered-goteborgs-kommun-molnesjogatan-41-19223378,"Mölnesjögatan 41, Angered, Göteborgs kommun",2800000,Villa,5,134 m²,1 m²,437 m²,1981
+41,https://www.hemnet.se/bostad/radhus-4rum-kortedala-goteborgs-kommun-decenniumgatan-55-19007735,"Decenniumgatan 55, Kortedala, Göteborgs kommun",3800000,Radhus,4,120 m²,N/A,N/A,2016
+42,https://www.hemnet.se/bostad/radhus-4rum-hisings-karra-goteborgs-kommun-sodra-ligarden-26-19155436,"Södra Ligården 26, Hisings Kärra, Göteborgs kommun",3699000,Radhus,4,113 m²,N/A,"144,4 m²",1975
+43,https://www.hemnet.se/bostad/radhus-4rum-landvetter-harryda-kommun-lunnavagen-39-19124802,"Lunnavägen 39, Landvetter, Härryda kommun",3900000,Radhus,4,105 m²,N/A,151 m²,1968
+44,https://www.hemnet.se/bostad/radhus-4rum-angered-gardsten-goteborgs-kommun-kardemummaslingan-63-19122556,"Kardemummaslingan 63, Angered - Gårdsten, Göteborgs kommun",2490000,Radhus,4,102 m²,N/A,N/A,2021
+45,https://www.hemnet.se/bostad/radhus-5rum-lexby-partille-kommun-nygardsvagen-14d-19095729,"Nygårdsvägen 14D, Lexby, Partille kommun",3595000,Radhus,5,87 m²,43 m²,76 m²,1967
+46,https://www.hemnet.se/bostad/villa-5rum-save-goteborgs-kommun-enebacken-4-19064957,"Enebacken 4, Säve, Göteborgs kommun",3650000,Villa,5,110 m²,48 m²,1 544 m²,1952
+47,https://www.hemnet.se/bostad/radhus-4rum-angered-goteborgs-kommun-tradgardsgardet-168-18992181,"Trädgårdsgärdet 168, Angered, Göteborgs kommun",1695000,Radhus,4,"111,2 m²",N/A,N/A,1992
+48,https://www.hemnet.se/bostad/radhus-4rum-gardsten-goteborgs-kommun-kardemummaslingan-61-18903400,"Kardemummaslingan 61, Gårdsten, Göteborgs kommun",2650000,Radhus,4,102 m²,N/A,N/A,2021
+49,https://www.hemnet.se/bostad/villa-6rum-kortedala-goteborgs-kommun-julaftonsgatan-70-19294300,"Julaftonsgatan 70, Kortedala, Göteborgs kommun",3975000,Villa,6,95 m²,60 m²,"532,2 m²",1958
