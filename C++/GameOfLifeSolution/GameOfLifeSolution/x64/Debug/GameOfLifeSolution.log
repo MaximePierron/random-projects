@@ -1,0 +1,6 @@
+﻿  ansi_escapes.cc
+  cell.cc
+  grid.cc
+  main.cc
+  Generating Code...
+  GameOfLifeSolution.vcxproj -> C:\Users\maximepe\Documents\C++\GameOfLifeSolution\x64\Debug\GameOfLifeSolution.exe

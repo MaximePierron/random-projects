@@ -1,0 +1,5 @@
+﻿  ansi_escapes.cpp
+  cell.cpp
+  grid.cpp
+  Generating Code...
+  GameOfLife.vcxproj -> C:\Users\maximepe\Documents\C++\GameOfLife\x64\Debug\GameOfLife.exe
